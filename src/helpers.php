@@ -1,7 +1,7 @@
 <?php
 namespace Collect;
 
-use src\Collect;
+use Collect\Collect;
 
 function collection(array $array = []): Collect
 {

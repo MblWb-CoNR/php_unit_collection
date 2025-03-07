@@ -1,6 +1,6 @@
 <?php
 
-namespace src;
+    namespace Collect;
 
 use function Collect\collection;
 
